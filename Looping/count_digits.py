@@ -7,5 +7,5 @@ def count_digits(n):
     return count
 
 
-print(count_digits(456))
+print(count_digits(4567))
 print(count_digits(4560235))
